@@ -1,9 +1,14 @@
 {
   "summary": {
-    "title": "MyFirst"
+    "title": "MyFirst",
+    "owner": ""
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "seb"
+      }
+    ],
     "diagrams": [
       {
         "title": "MyFirstDiagram",
