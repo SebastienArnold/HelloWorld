@@ -4,11 +4,7 @@
     "owner": ""
   },
   "detail": {
-    "contributors": [
-      {
-        "name": "seb"
-      }
-    ],
+    "contributors": [],
     "diagrams": [
       {
         "title": "MyFirstDiagram",
